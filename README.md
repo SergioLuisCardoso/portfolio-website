@@ -1,7 +1,7 @@
 # Portfolio Website
 <img src="./assets/img/folder.png" alt="página inicial">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Website Portifolio particular, demonstrando meu nível profissional e capacidade técnica em trabalhos recentes utilizando diversas tecnologias.
 
 ### ⚙️ Ajustes e melhorias
 
@@ -19,7 +19,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 * HTML
 * CSS
-* SASS
+* SCSS
 * Javascript
 
 ## 🔗 Acesse o website
