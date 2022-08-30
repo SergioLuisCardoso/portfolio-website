@@ -13,6 +13,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Portfólio
 - [ ] Contato
 - [ ] Redes Sociais
+- [ ] Configurar e-mail (PHP)
 
 
 ## 💻 Tecnologias utilizadas
