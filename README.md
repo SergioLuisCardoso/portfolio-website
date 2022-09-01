@@ -14,6 +14,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Contato
 - [ ] Redes Sociais
 - [ ] Configurar e-mail (PHP)
+- [ ] Configurar redes sociais (PHP)
 
 
 ## 💻 Tecnologias utilizadas
