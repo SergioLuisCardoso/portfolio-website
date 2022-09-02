@@ -13,8 +13,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Portfólio
 - [ ] Contato
 - [ ] Redes Sociais
-- [ ] Configurar e-mail (PHP)
-- [ ] Configurar redes sociais (PHP)
+- [ ] Configurar e-mail (php)
+- [ ] Configurar WhatsApp (HTML/CSS)
+- [ ] Configurar demais redes sociais
 
 
 ## 💻 Tecnologias utilizadas
