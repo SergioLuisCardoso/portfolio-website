@@ -1,7 +1,7 @@
-# Portfolio Website
+# Portfólio Website
 <img src="./assets/img/folder.png" alt="página inicial">
 
-> Website Portifolio particular, demonstrando meu nível profissional e capacidade técnica em trabalhos recentes utilizando diversas tecnologias.
+> Neste projeto particular, Website Portifólio,  procuro demonstrar meu nível profissional e capacidade técnica em trabalhos recentes, utilizando tecnologias diversas.
 
 ### ⚙️ Ajustes e melhorias
 
@@ -52,5 +52,5 @@ Idealizador do projeto:
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#portfolio-website)<br>
+[⬆ Voltar ao topo](#portfólio-website)<br>
 
