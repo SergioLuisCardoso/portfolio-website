@@ -18,10 +18,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 💻 Tecnologias utilizadas
 
-* HTML
-* CSS
-* SCSS
-* Javascript
+* HTML;
+* CSS;
+* SCSS;
+* Javascript.
 
 ## 🔗 Acesse o website
 
