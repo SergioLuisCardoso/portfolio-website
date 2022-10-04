@@ -11,17 +11,17 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Página Sobre
 - [x] Skills
 - [x] Portfólio
-- [ ] Configurar e-mail (php)
+- [ ] Configurar E-mail (php)
 - [ ] Configurar WhatsApp (HTML/CSS)
 
 
 
 ## 💻 Tecnologias utilizadas
 
-* HTML;
-* CSS;
-* SCSS;
-* Javascript.
+* HTML
+* CSS
+* SCSS
+* Javascript
 
 ## 🔗 Acesse o website
 
