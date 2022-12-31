@@ -12,7 +12,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Skills
 - [x] Portfólio
 - [ ] Configurar E-mail (PHP)
-- [ ] Configurar WhatsApp (HTML/CSS)
+- [ ] Configurar WhatsApp (HTML / CSS)
 
 
 
