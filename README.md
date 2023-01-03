@@ -11,7 +11,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Página Sobre
 - [x] Skills
 - [x] Portfólio
-- [ ] Configurar E-mail (P.H.P)
+- [ ] Configurar E-mail (PHP)
 - [ ] Configurar WhatsApp (HTML / CSS)
 
 
