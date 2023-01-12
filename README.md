@@ -13,7 +13,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Portfólio
 - [ ] Configurar E-mail (PHP)
 - [ ] Configurar WhatsApp (HTML/CSS)
-- [ ] New Task
+- [ ] New Task 1
+- [ ] New Task 2
 
 
 
