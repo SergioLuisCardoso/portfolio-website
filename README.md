@@ -11,7 +11,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Página Sobre
 - [x] Skills
 - [x] Portfólio
-- [ ] Configurar E-mail (PHP)
+- [ ] Configurar E-mail (ReactJs)
 - [ ] Configurar WhatsApp (HTML/CSS)
 - [ ] Task 1
 - [ ] Task 2
