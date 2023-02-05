@@ -14,6 +14,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Configurar E-mail (ReactJs)
 - [ ] Configurar WhatsApp (HTML/CSS)
 - [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
 
 
 
