@@ -13,7 +13,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Portfólio
 - [x] Configurar WhatsApp
 - [x] Configurar Telegram
-- [ ] Configurar E-mail (ReactJs)
+- [ ] Configurar E-mail
 
 
 
