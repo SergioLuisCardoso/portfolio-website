@@ -54,7 +54,7 @@ Idealizador do projeto:
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](l1nq.com/aQBaC) para mais detalhes.
 
 [⬆ Voltar ao topo](#portfólio-website)<br>
 
