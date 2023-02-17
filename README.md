@@ -54,7 +54,7 @@ Idealizador do projeto:
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](l1nq.com/aQBaChttps://github.com/SergioLuisCardoso/portfolio-website/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/SergioLuisCardoso/portfolio-website/blob/main/LICENSE) para mais detalhes.
 
 [⬆ Voltar ao topo](#portfólio-website)<br>
 
