@@ -1,7 +1,7 @@
 # Portfólio Website
 <img src="./assets/img/folder.png" alt="página inicial">
 
-> Este projeto portifólio tem como objetivo principal demonstrar meu profissionalismo e capacidade técnica, que abrange diversas tecnologias. Consiste também em uma seleção dos meus principais trabalhos, destacando minhas experiências e competências como desenvolvedor.
+> Este projeto portfólio foi criado com o intuito de demonstrar meu profissionalismo e habilidades técnicas, abrangendo um amplo conjunto de tecnologias. A seleção de trabalhos contidos aqui foi inserida para destacar minhas experiências e competências como desenvolvedor. 
 
 ### ⚙️ Ajustes e melhorias
 
