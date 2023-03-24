@@ -13,7 +13,8 @@ O projeto encontra-se em fase final de desenvolvimento. As últimas atualizaçõ
 - [x] Portfólio
 - [x] Configurar WhatsApp
 - [x] Configurar Telegram
-- [ ] Configurar e-mail
+- [x] Configurar e-mail
+- [ ] Página de Agradecimento
 
 
 
