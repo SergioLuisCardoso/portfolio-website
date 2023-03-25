@@ -132,6 +132,16 @@ img{
     background-color: var(--first-color);
 }
 
+
+.center {
+    text-align: center;
+}
+
+
+.center .about__img{
+    align-items: center;
+}
+
 /* ###### Nav ####### */
 
 .nav{
