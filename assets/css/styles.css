@@ -135,6 +135,15 @@ img{
 
 .center {
     text-align: center;
+    color: #d9d9f3;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+
 }
 
 
@@ -522,7 +531,7 @@ img{
     }
 
     .about__img img{
-        width:185px;        
+        width:auto;  /* before: width:165px*/     
     }
 
     .skills__container{
