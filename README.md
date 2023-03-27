@@ -40,7 +40,7 @@ Idealizador do projeto:
 
 <table>
   <tr>
-    <td align="center">
+    <td aligne ="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/55567543?v=4" width="100px;" alt="Foto Sergio Cardoso no GitHub"/><br>
         <sub>
