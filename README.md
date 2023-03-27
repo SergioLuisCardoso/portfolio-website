@@ -14,7 +14,8 @@ O projeto encontra-se em fase final de desenvolvimento. As últimas atualizaçõ
 - [x] Configurar WhatsApp
 - [x] Configurar Telegram
 - [x] Configurar e-mail
-- [ ] Página de Agradecimento
+- [x] Página de Agradecimento
+- [ ] Alterar projetos do portifólio
 
 
 
