@@ -15,7 +15,8 @@ O projeto encontra-se em fase final de desenvolvimento. As últimas atualizaçõ
 - [x] Configurar Telegram
 - [x] Configurar e-mail
 - [x] Página de Agradecimento
-- [ ] Alterar projetos do portifólio
+- [x] Alterar projetos do portifólio
+- [ ] Atualizar seção 'skills'
 
 
 
