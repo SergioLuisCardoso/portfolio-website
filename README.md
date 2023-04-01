@@ -16,7 +16,7 @@ O projeto encontra-se em fase final de desenvolvimento, as últimas atualizaçõ
 - [x] Configurar e-mail
 - [x] Página de Agradecimento
 - [x] Alterar projetos do portifólio
-- [ ] Atualizar seção 'skills'
+- [ ] Atualização da seção 'skills'
 
 
 
