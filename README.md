@@ -5,7 +5,7 @@
 
 ### ⚙️ Ajustes e melhorias
 
-O projeto encontra-se em fase final de desenvolvimento, as últimas atualizações serão focadas nas seguintes tarefas:
+O projeto encontra-se na fase final de desenvolvimento, as últimas atualizações serão focadas nas seguintes tarefas:
 
 - [x] Página inicial
 - [x] Página Sobre
